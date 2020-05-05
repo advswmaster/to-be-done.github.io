@@ -1,6 +1,10 @@
 @import""
 ## Welcome to Gruppe 2 githubpage
 
+# Ich denke, ich habe verstehen wie es functionniert sollte
+**Ricardo**
+[https://www.dummies.com/web-design-development/site-development/a-sample-web-page-in-html/]
+
 https://onedrive.live.com/view.aspx?resid=BF5026876D2BCCCD!88851&ithint=file%2cxlsx&authkey=!ACPrCWGNratWA_Y
 
 
